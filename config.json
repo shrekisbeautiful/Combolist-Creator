@@ -3,4 +3,6 @@
     "gaming": "n",
     "mix": "n",
     "streaming": "n"
+    "mix": "y",
+    "streaming": "y"
 }
